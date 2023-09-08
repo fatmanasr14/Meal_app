@@ -1,16 +1,3 @@
-# untitled
+Detailed application of meals
+![Screenshot_20230908_231514](https://github.com/fatmanasr14/Meal_app/assets/117378661/cf006333-d58e-48ac-ba88-02f4627f66fa)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
